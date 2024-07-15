@@ -1,0 +1,16 @@
+width: 430px;
+height: 932px;
+background: #E3C7DB;
+width: 292px;
+height: 476px;
+flex-shrink: 0;
+background: url(<path-to-image>) lightgray 50% / cover no-repeat;
+width: 401px;
+height: 100px;
+flex-shrink: 0;
+color: #000;
+font-family: "Jolly Lodger";
+font-size: 64px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
