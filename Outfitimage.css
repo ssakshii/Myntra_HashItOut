@@ -1,0 +1,15 @@
+width: 430px;
+height: 932px;
+
+background: #ECE0C9;
+width: 186px;
+height: 321px;
+flex-shrink: 0;
+
+background: url(<path-to-image>) lightgray 50% / cover no-repeat;
+width: 199px;
+height: 321px;
+flex-shrink: 0;
+
+background: url(<path-to-image>) lightgray 50% / cover no-repeat;
+background: url(<path-to-image>) lightgray 50% / cover no-repeat;
