@@ -1,0 +1,141 @@
+width: 1080px;
+height: 1080px;
+flex-shrink: 0;
+
+background: #ECE0C9;
+color: #000;
+font-family: "Jolly Lodger";
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+background: url(<path-to-image>) lightgray 50% / cover no-repeat;
+width: 35px;
+height: 35px;
+flex-shrink: 0;
+transform: rotate(-1.009deg);
+
+color: #000;
+font-family: "Jolly Lodger";
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+width: 40px;
+height: 40px;
+flex-shrink: 0;
+
+fill: #FAEDF5;
+box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) inset;
+
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40" fill="none">
+  <g filter="url(#filter0_i_17_65)">
+    <circle cx="20" cy="20" r="20" fill="#FAEDF5"/>
+  </g>
+  <defs>
+    <filter id="filter0_i_17_65" x="0" y="0" width="40" height="44" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+      <feOffset dy="4"/>
+      <feGaussianBlur stdDeviation="2"/>
+      <feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+      <feBlend mode="normal" in2="shape" result="effect1_innerShadow_17_65"/>
+    </filter>
+  </defs>
+</svg>
+width: 356px;
+height: 46px;
+flex-shrink: 0;
+
+border-radius: 50px;
+background: #D9D9D9;
+box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) inset, 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+backdrop-filter: blur(2px);
+color: #000;
+font-family: Abel;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+background: url(<path-to-image>) lightgray 50% / cover no-repeat;
+width: 100px;
+height: 33px;
+flex-shrink: 0;
+
+border-radius: 20px;
+border: 1px solid #000;
+background: #FFF;
+box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) inset;
+color: #000;
+font-family: "Abhaya Libre";
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+background: #FFF;
+background: url(<path-to-image>) lightgray 50% / cover no-repeat;
+width: 74.823px;
+height: 100px;
+flex-shrink: 0;
+
+background: url(<path-to-image>) lightgray 50% / cover no-repeat;
+width: 66.675px;
+height: 100px;
+flex-shrink: 0;
+
+background: url(<path-to-image>) lightgray 50% / cover no-repeat;
+width: 83px;
+height: 124px;
+flex-shrink: 0;
+
+background: url(<path-to-image>) lightgray 50% / cover no-repeat;
+width: 407px;
+height: 206px;
+flex-shrink: 0;
+
+background: url(<path-to-image>) lightgray 50% / cover no-repeat;
+width: 100px;
+height: 33px;
+transform: rotate(0.263deg);
+flex-shrink: 0;
+
+fill: #FFF;
+stroke-width: 1px;
+stroke: #000;
+box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) inset;
+
+<svg xmlns="http://www.w3.org/2000/svg" width="102" height="35" viewBox="0 0 102 35" fill="none">
+  <g filter="url(#filter0_i_20_155)">
+    <path d="M1.07564 17.4998C1.11741 8.38722 8.5385 1.03386 17.6511 1.07563L84.6504 1.38274C93.763 1.42451 101.116 8.8456 101.075 17.9582C101.033 27.0708 93.6117 34.4242 84.4991 34.3824L17.4998 34.0753C8.38724 34.0335 1.03387 26.6124 1.07564 17.4998Z" fill="white"/>
+  </g>
+  <path d="M1.07564 17.4998C1.11741 8.38722 8.5385 1.03386 17.6511 1.07563L84.6504 1.38274C93.763 1.42451 101.116 8.8456 101.075 17.9582C101.033 27.0708 93.6117 34.4242 84.4991 34.3824L17.4998 34.0753C8.38724 34.0335 1.03387 26.6124 1.07564 17.4998Z" stroke="black"/>
+  <defs>
+    <filter id="filter0_i_20_155" x="0.57547" y="0.57547" width="100.999" height="38.3071" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+      <feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+      <feOffset dy="4"/>
+      <feGaussianBlur stdDeviation="2"/>
+      <feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+      <feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+      <feBlend mode="normal" in2="shape" result="effect1_innerShadow_20_155"/>
+    </filter>
+  </defs>
+</svg>
+width: 407px;
+height: 206px;
+flex-shrink: 0;
+
+background: url(<path-to-image>) lightgray 50% / cover no-repeat;
+width: 159px;
+height: 239px;
+flex-shrink: 0;
+
+background: url(<path-to-image>) lightgray 50% / cover no-repeat;
+width: 200px;
+height: 200px;
+flex-shrink: 0;
+
+background: url(<path-to-image>) lightgray 50% / cover no-repeat;
